@@ -1,5 +1,5 @@
 # EIT-Takehome-Project
-This is a project for developing a comprehensive understanding of weather patterns by scarping, cleaning and analyzing and visualizing weather data.
+This is a project for developing a comprehensive understanding of weather patterns by scraping, cleaning, analyzing and visualizing weather data.
 
 # Necessary Libraries
 - **Selenium:** Web scraping framework for automating browser interactions.
