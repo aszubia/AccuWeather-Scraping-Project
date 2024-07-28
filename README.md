@@ -2,4 +2,11 @@
 This is a project for developing a comprehensive understanding of weather patterns by scarping, cleaning and analyzing and visualizing weather data.
 
 # Necessary Libraries
-## Getting Started
+- **Selenium:** Web scraping framework for automating browser interactions.
+- **Pandas:** Powerful library for data analysis and manipulation.
+- **Matplotlib:** A plotting library used for data visualization. 
+- **Scikit-Learn:** Machine learning library provides model building and evaluation tools. It was used for the Random Forest Model.
+- **Plotly:** Interactive charting library used within Dash.
+- **Dash:** Framework for building interactive web applications and dashboards.
+- **Dash Bootstrap Components:** Library for styling and enhancing Dash layouts.
+
