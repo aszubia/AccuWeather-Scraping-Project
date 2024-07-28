@@ -36,6 +36,11 @@ We can install the necessary libraries using pip:
 
 # Project Workflow
 Below is a flowchart of the project workflow.
-
 ![`Project Workflow`](project_workflow.png)
+
+# Project Limitations
+- Websites may change their structure, making the scraping code outdated. Also, some websites have measures to prevent scraping.
+- It has limited analysis. Having more complex analysis would require additional code modifications.
+- Most of the graphs are limited to over-time data and cannot be modified or customized without altering the code.
+- The project is designed for educational purposes and may need more code modifications. 
 
