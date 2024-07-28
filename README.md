@@ -32,3 +32,8 @@ We can install the necessary libraries using pip:
 2. Run the `dataCleaning.py` to clean the scraped data.
 3. Open the `dataVisualization.ipynb` to visualize the weather data.
 4. Run the interactive dashboard `interactiveDashboard.py`
+
+#Project Workflow
+Below is a flowchart of the project workflow.
+
+![`Project Workflow`](project_workflow.png)
