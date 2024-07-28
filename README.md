@@ -26,6 +26,7 @@ We can install the necessary libraries using pip:
   - **Feature Importance**: This bar chart shows the importance of each feature in predicting the average temperature. Features with higher values are more significant in the model's predictions.
   - **Dash**: This also includes a interactive dashboard on the last part of the Jupyter File.
 - [`interactiveDashboard.py`](interactiveDashboard.py): This Python file creates a dynamic, interactive dashboard using the Dash framework. The dashboard allows users to explore the cleaned weather data.
+- [`Take-home.ipynb`](Take-home.ipynb): This is a Jupyter Notebook that serves as the base code for all the files. It acts as the initial test run for the project, demonstrating the entire workflow from data scraping to an interactive dashboard. It contains sample code and analysis to guide the development of other project files.
 
 # Running the Project
 1. Run the `dataScraping.py` to gather weather data from the AccuWeather Website.
