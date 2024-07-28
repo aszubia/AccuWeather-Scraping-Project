@@ -21,3 +21,4 @@ This is a project for developing a comprehensive understanding of weather patter
   - **Correlation Matrix**: The correlation matrix heatmap visualizes the relationships between different weather variables. Values closer to 1 or -1 indicate strong correlations, either positive or negative, respectively.
   - **Feature Importance**: This bar chart shows the importance of each feature in predicting the average temperature. Features with higher values are more significant in the model's predictions.
   - **Dash**: This also includes a interactive dashboard on the last part of the Jupyter File.
+- [`interactiveDashboard.py`](interactiveDashboard.py): This Python file creates a dynamic, interactive dashboard using the Dash framework. The dashboard allows users to explore the cleaned weather data. 
