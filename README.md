@@ -1,5 +1,5 @@
 # EIT-Takehome-Project
-This is a project for developing a comprehensive understanding of weather patterns by scraping, cleaning, analyzing and visualizing weather data.
+This is a project for developing a comprehensive understanding of weather patterns by scraping, cleaning, analyzing and visualizing weather data. With a few modifications, this project can be adapted to scrape, clean, analyze, and visualize data from different websites and identify various patterns beyond just weather data.
 
 # Necessary Libraries
 To run the project we must ensure that the following libraries are installed:
@@ -37,3 +37,4 @@ We can install the necessary libraries using pip:
 Below is a flowchart of the project workflow.
 
 ![`Project Workflow`](project_workflow.png)
+
