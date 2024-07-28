@@ -36,6 +36,7 @@ We can install the necessary libraries using pip:
 
 # Project Workflow
 Below is a flowchart of the project workflow.
+
 ![`Project Workflow`](project_workflow.png)
 
 # Project Limitations
