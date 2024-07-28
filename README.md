@@ -17,4 +17,5 @@ This is a project for developing a comprehensive understanding of weather patter
   - **Temperature Trend**: Visualizes the changes in temperature over time using a line chart or area chart to highlight daily highs and lows.
   - **Precipitation Probability**: Displays the probability of precipitation as a line chart, potentially showing variations over time.
   - **Wind Speed**: Illustrates the wind speed distribution using a bar chart to the range and typical values. A color was used to differentiate the intensity of the wind. 
-  - **UV Index**: Presents the UV index as a bar chart with different colors represent varying levels of UV radiation. 
+  - **UV Index**: Presents the UV index as a bar chart with different colors represent varying levels of UV radiation.
+  - **Correlation Matrix**: The correlation matrix heatmap visualizes the relationships between different weather variables. Values closer to 1 or -1 indicate strong correlations, either positive or negative, respectively.
