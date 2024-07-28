@@ -11,6 +11,9 @@ To run the project we must ensure that the following libraries are installed:
 - **Dash:** Framework for building interactive web applications and dashboards.
 - **Dash Bootstrap Components:** Library for styling and enhancing Dash layouts.
 
+We can install the necessary libraries using pip:
+`pip install selenium pandas matplotlib scikit-learn plotly dash dash-bootstrap-components`
+
 # Project Files
 - [`dataScraping.py`](dataScraping.py): This is the python file for gathering weather data, this includes Date, Temperature(High/Low), Condition, Precipitation Probability, Real Feel, Real Feel Shade, UV Index and Wind Speed. The data will then be saved into [`weather_data.csv`](weather_data.csv) which will be then prepared for data cleaning.
 - [`dataCleaning.py`](dataCleaning.py): This is a python file that will ensure that all the data from [`weather_data.csv`](weather_data.csv) are in the correct format such as removing non-numeric characters, correcting the date format and converting it into an other variables into a data type. The cleaned data will be then saved into [`cleaned_weather_data.csv`](cleaned_weather_data.csv)
