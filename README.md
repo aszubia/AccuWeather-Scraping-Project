@@ -2,6 +2,7 @@
 This is a project for developing a comprehensive understanding of weather patterns by scraping, cleaning, analyzing and visualizing weather data.
 
 # Necessary Libraries
+To run the project we must ensure that the following libraries are installed:
 - **Selenium:** Web scraping framework for automating browser interactions.
 - **Pandas:** Powerful library for data analysis and manipulation.
 - **Matplotlib:** A plotting library used for data visualization. 
