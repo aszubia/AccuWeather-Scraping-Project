@@ -11,4 +11,4 @@ This is a project for developing a comprehensive understanding of weather patter
 - **Dash Bootstrap Components:** Library for styling and enhancing Dash layouts.
 
 # Project Files
-- 'dataScraping.py' : This is the python file for gathering weather data, this includes Date, Temperature(High/Low), Condition, Precipitation Probability, Real Feel, Real Feel Shade, UV Index and Wind Speed. The data will then be saved into 'weather_data.csv' which will be then prepared for data cleaning.
+- 'dataScraping' : This is the python file for gathering weather data, this includes Date, Temperature(High/Low), Condition, Precipitation Probability, Real Feel, Real Feel Shade, UV Index and Wind Speed. The data will then be saved into 'weather_data.csv' which will be then prepared for data cleaning.
